@@ -28,20 +28,20 @@ public class SlideAdapter extends PagerAdapter {
     //Array
     public int[] slide_images = {
             R.drawable.ic_food,
-            R.drawable.ic_work,
-            R.drawable.ic_sleep
+            R.drawable.ic_sleep,
+            R.drawable.ic_relax
     };
 
     public String[] slide_headings = {
             "EAT",
             "SLEEP",
-            "WORK"
+            "RELAX"
     };
 
     public String[] slide_discriprion = {
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
-            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+            "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
     };
 
 
